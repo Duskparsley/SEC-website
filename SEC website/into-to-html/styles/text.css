@@ -1,0 +1,13 @@
+.video-title {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 30px;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+
+  .video-text {
+    margin: 0;
+  }
